@@ -31,3 +31,6 @@ This project is a **responsive promotional email template** designed for a **Fat
   - Email marketing platforms 
   - Custom integration in **Next.js** or static HTML
 - Image assets: High-resolution PNGs with transparent backgrounds
+
+  
+![1](https://github.com/user-attachments/assets/bfc9a583-117b-4115-a9cb-af28255007bf)
